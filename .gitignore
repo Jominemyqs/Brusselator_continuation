@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+
+# MATLAB temporary and autosave files
+*.asv
+*.m~
+slprj/
+
+# Scheduler logs and local run products
+logs/
+outputs/continuation/
+
+# General temporary files
+tmp/
+*.log
+*.err
+*.out
